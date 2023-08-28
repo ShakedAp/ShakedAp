@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I am Shaked :). I <3 code.
+Ask me anything!
 
 
 
