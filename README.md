@@ -1,6 +1,6 @@
-### Hi there 👋
 ### I am Shaked :). I <3 code.
-Ask me anything!
+
+check out my [CTF group](https://github.com/C0d3-Bre4k3rs/) 💪 (my username is LꞫd)  
 
 
 
